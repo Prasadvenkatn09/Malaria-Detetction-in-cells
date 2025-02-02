@@ -1,1 +1,0 @@
-# Malaria-Detetction-in-cells
